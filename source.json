@@ -1,0 +1,40 @@
+{
+    "name": "Matcha Moment",
+    "subtitle": "Offline matcha recipes for AltStore.",
+    "description": "This source hosts Matcha Moment, a small offline recipe app with step-by-step matcha drink recipes.",
+    "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/matcha-moment-altstore/main/icon.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://github.com/maddiemccarthy/matcha-moment-altstore",
+    "patreonURL": "https://www.patreon.com/cw/example",
+    "tintColor": "#799D58",
+    "featuredApps": [
+        "devplaceholder.PQDSVGKX.--Matcha-Moment"
+    ],
+    "apps": [
+        {
+            "name": "Matcha Moment",
+            "bundleIdentifier": "devplaceholder.PQDSVGKX.--Matcha-Moment",
+            "developerName": "Example Developer",
+            "subtitle": "Simple offline matcha recipes.",
+            "localizedDescription": "Matcha Moment shows three matcha recipes — Iced Vanilla Matcha, Strawberry Matcha Latte, and Honey Oat Matcha — with ingredients, quantities, prep time, and numbered instructions. Tap Surprise Me to get a recipe suggestion that skips whichever one you just viewed. No internet connection required.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/matcha-moment-altstore/main/icon.png",
+            "tintColor": "#799D58",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-11-17",
+                    "size": 171757,
+                    "downloadURL": "https://github.com/maddiemccarthy/matcha-moment-altstore/releases/download/v1.0/MatchaMoment.ipa",
+                    "localizedDescription": "Initial release.",
+                    "minOSVersion": "27.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ]
+}
